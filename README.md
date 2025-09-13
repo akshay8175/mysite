@@ -175,4 +175,4 @@ If you need help customizing this portfolio or have questions, feel free to open
 
 **Happy coding! 🎉**
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Akshay Rathore
